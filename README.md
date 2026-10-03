@@ -93,3 +93,7 @@ Open to collaboration, interesting projects, and good conversations.
   <a href="mailto:issamoubenzha@gmail.com">Email</a> ·
   <a href="https://issam-oubenazha.netlify.app/">Portfolio</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:0f172a&section=footer" alt="Footer" width="100%" />
+
+</div>
