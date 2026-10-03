@@ -262,3 +262,8 @@ I'm open to collaboration, new ideas and interesting opportunities.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:0f172a&section=footer" alt="Footer" width="100%" />
 
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/issam-oubenazha/issam-oubenazha/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/issam-oubenazha/issam-oubenazha/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/issam-oubenazha/issam-oubenazha/output/github-snake.svg">
+</picture>
