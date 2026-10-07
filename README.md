@@ -25,11 +25,25 @@
 
 ## About Me
 
-I'm **Issam Oubenazha**, a Full Stack Developer with a strong interest in **Data Engineering** and **Artificial Intelligence**.
+```console
+issam@portfolio:~$ whoami
+Issam Oubenazha
 
-I enjoy building useful, modern applications end to end: clean interfaces on the front, reliable logic and data pipelines behind them, and intelligent features where they genuinely add value. Whether it's an e-commerce site, a desktop inventory tool or a computer vision project, I focus on writing practical, maintainable code.
+issam@portfolio:~$ role
+Full Stack Developer | Data Engineering | Artificial Intelligence
 
-I'm driven by curiosity, and I learn best by creating real projects.
+issam@portfolio:~$ cat ./about.txt
+I build useful, modern applications with clean interfaces, reliable data pipelines,
+and AI features that add real value. I focus on practical, maintainable code.
+
+issam@portfolio:~$ ls ./projects
+e-commerce/  desktop-inventory/  computer-vision/
+
+issam@portfolio:~$ motivation
+Curious by nature. I learn by building real projects.
+
+issam@portfolio:~$ _
+```
 
 <br/>
 
