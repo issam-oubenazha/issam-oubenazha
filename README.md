@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:0f172a,100:0ea5e9&amp;text=Issam%20Oubenazha&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Data%20%26amp%3B%20AI&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" alt="Issam Oubenazha banner" width="100%" />
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/issam-oubenazha">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3500&amp;pause=1200&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Building+modern+web+applications;Turning+raw+data+into+useful+insights;Exploring+AI+and+computer+vision;Always+learning%2C+always+shipping" alt="Typing animation" />
 </a>
 
 <br/>
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/issam-oubenazha"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/issam-oubenazha"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:issamoubenzha@gmail.com"><img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
   <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0ea5e9" alt="Portfolio" /></a>
 </p>
 
@@ -24,23 +24,7 @@
 
 ## About Me
 
-```python
-class IssamOubenazha:
-    name = "Issam Oubenazha"
-    role = "Full Stack Developer"
-    interests = ["Data Engineering", "Artificial Intelligence"]
-    projects = ["E-commerce", "Desktop Inventory", "Computer Vision"]
-
-    def about(self):
-        return (
-            "I build useful, modern applications with clean interfaces, "
-            "reliable data pipelines, and AI features that add real value. "
-            "I focus on practical, maintainable code."
-        )
-
-    def motto(self):
-        return "Curious by nature. I learn by building real projects."
-```
+<img src="assets/about-vscode.svg" alt="About Issam Oubenazha displayed as Python code in a dark VS Code-style editor" width="100%" />
 
 <br/>
 
