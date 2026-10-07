@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:0f172a,100:0ea5e9&amp;text=Issam%20Oubenazha&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Data%20%26%20AI&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" alt="Issam Oubenazha banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:0f172a,100:0ea5e9&amp;text=Issam%20Oubenazha&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Data%20%26amp%3B%20AI&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" alt="Issam Oubenazha banner" width="100%" />
 
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3500&amp;pause=1200&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Building+modern+web+applications;Turning+raw+data+into+useful+insights;Exploring+AI+and+computer+vision;Always+learning%2C+always+shipping" alt="Typing animation" />
@@ -212,9 +212,9 @@ I'm driven by curiosity, and I learn best by creating real projects.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/issam-oubenazha/issam-oubenazha/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/issam-oubenazha/issam-oubenazha/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/issam-oubenazha/issam-oubenazha/output/github-snake.svg" />
   </picture>
 </div>
 
