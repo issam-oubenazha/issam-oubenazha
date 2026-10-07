@@ -25,24 +25,22 @@
 
 ## About Me
 
-```console
-issam@portfolio:~$ whoami
-Issam Oubenazha
+```python
+class IssamOubenazha:
+    name = "Issam Oubenazha"
+    role = "Full Stack Developer"
+    interests = ["Data Engineering", "Artificial Intelligence"]
+    projects = ["E-commerce", "Desktop Inventory", "Computer Vision"]
 
-issam@portfolio:~$ role
-Full Stack Developer | Data Engineering | Artificial Intelligence
+    def about(self):
+        return (
+            "I build useful, modern applications with clean interfaces, "
+            "reliable data pipelines, and AI features that add real value. "
+            "I focus on practical, maintainable code."
+        )
 
-issam@portfolio:~$ cat ./about.txt
-I build useful, modern applications with clean interfaces, reliable data pipelines,
-and AI features that add real value. I focus on practical, maintainable code.
-
-issam@portfolio:~$ ls ./projects
-e-commerce/  desktop-inventory/  computer-vision/
-
-issam@portfolio:~$ motivation
-Curious by nature. I learn by building real projects.
-
-issam@portfolio:~$ _
+    def motto(self):
+        return "Curious by nature. I learn by building real projects."
 ```
 
 <br/>
