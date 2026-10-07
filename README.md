@@ -1,12 +1,6 @@
-<!-- =========================================================
-  Replace every occurrence of:
-    YOUR_USERNAME  -> your GitHub username
-    YOUR_LINKEDIN  -> your LinkedIn handle
-    YOUR_EMAIL     -> your email address
-    YOUR_PORTFOLIO -> your portfolio URL (without https://)
-========================================================== -->
-
 <div align="center">
+
+<img src="assets/tech-banner.svg" alt="Abstract illustration of code, AI, and data working together" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:0f172a,100:0ea5e9&amp;text=Issam%20Oubenazha&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Data%20%26amp%3B%20AI&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" alt="Issam Oubenazha banner" width="100%" />
 
