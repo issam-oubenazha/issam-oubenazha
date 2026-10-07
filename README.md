@@ -252,10 +252,10 @@ I'm driven by curiosity, and I learn best by creating real projects.
 I'm open to collaboration, new ideas and interesting opportunities.
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Write%20to%20me-0ea5e9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0ea5e9" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/issam-oubenazha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/issam-oubenazha"><img src="https://img.shields.io/badge/GitHub-Follow-0f172a?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:issamoubenzha@gmail.com"><img src="https://img.shields.io/badge/Email-Write%20to%20me-0ea5e9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://https://issam-oubenazha.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0ea5e9" alt="Portfolio" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:0ea5e9,100:0f172a&amp;section=footer" alt="Footer" width="100%" />
